@@ -11,4 +11,6 @@
 5.Creating and adding remote repostiory.
   
 6.Pushing my local to remote repository.
+
+7. ASsigmnment 2 uploaded.
   
